@@ -11,5 +11,4 @@ public class Redacted {
 			System.out.printf("Output: %f\n", Math.sqrt(input) + 3);
 		}
 	}
-
 }
