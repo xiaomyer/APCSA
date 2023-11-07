@@ -11,11 +11,11 @@ public class Student
 	public void setScore(int test, int score)
 	{
 		if(test == 1)
-			test1 = score; 
+			this.test1 = score; 
 		else if (test == 2)
-			test2 = score;
+			this.test2 = score;
 		else 
-			test3 = score; 
+			this.test3 = score; 
 	}
 
 	public double getAverage()
